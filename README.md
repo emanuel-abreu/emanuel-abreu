@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Emanuel de Abreu
 
 
-- 🔭 Estudante de Engenharia de Software pela Universidade Federal do Ceará (UFC)
-- 🌱 Monitor de Iniciação à Docência em Pré-Cálculo
+- 👨🏻‍💻 Estudante de Engenharia de Software pela Universidade Federal do Ceará (UFC)
+- 👨🏻‍🏫 Monitor de Iniciação à Docência em Pré-Cálculo
 - 📍 Fortaleza, Ceará
 
 
